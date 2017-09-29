@@ -2,9 +2,9 @@ var timeline = require('./timeline.js');
 var user = {
   name : "Shekhar Gulati",
   messages : [
-    "hello!!!",
-    "bye",
-    "good night"
+    "Hello!!",
+    "Bye",
+    "Good night"
   ]
 };
 
